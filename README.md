@@ -154,4 +154,4 @@ Mi aporte propio consistió en:
 - Corregir el manejo del `after()` para que no se duplique al reiniciar.
 - Probar exhaustivamente el funcionamiento general de la aplicación.
 
-Aunque gran parte de la estructura inicial fue generada con ayuda de la IA, revisé, modifiqué y comprendí todo el código, pudiendo explicar el funcionamiento de cada sección.
+Aunque gran parte de la estructura inicial fue generada con ayuda de la IA, revisé, modifiqué y comprendí el código.
